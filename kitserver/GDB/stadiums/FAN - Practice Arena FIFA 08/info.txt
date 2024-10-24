@@ -1,0 +1,5 @@
+# Stadium information
+
+built = 2007
+capacity = 0
+city = ????
