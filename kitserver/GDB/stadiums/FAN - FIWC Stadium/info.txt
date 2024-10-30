@@ -1,0 +1,4 @@
+# Stadium information
+
+built = 2014
+capacity = 50000
